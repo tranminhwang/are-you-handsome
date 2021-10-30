@@ -1,0 +1,19 @@
+{
+  "name": "are-you-handsome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranminhwang/are-you-handsome.git"
+  },
+  "author": "Minh Quang Tran <j2team.tranminhquang@gmail.com> (https://github.com/tranminhwang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranminhwang/are-you-handsome/issues"
+  },
+  "homepage": "https://github.com/tranminhwang/are-you-handsome#readme"
+}
